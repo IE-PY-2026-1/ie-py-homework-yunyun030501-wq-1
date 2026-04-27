@@ -87,7 +87,7 @@ is_premium은 needs_pet and (hours >= 4) 조건으로, 두 조건 다 맞을 때
 ### **📁 증빙 자료:**
   * [2차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크) 
     * [2차과제_실행결과.jpg]
-짐봐줘_2차과제_개발일지.docx
+https://github.com/IE-PY-2026-1/ie-py-homework-yunyun030501-wq-1/blob/main/%EC%A7%90%EB%B4%90%EC%A4%98_2%EC%B0%A8%EA%B3%BC%EC%A0%9C_%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80.docx
 (결과까지 같이 첨부)
 <br>
 
