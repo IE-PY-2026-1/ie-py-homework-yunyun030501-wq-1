@@ -44,7 +44,7 @@
 
 ### **📁 증빙 자료:**
 
-- [1차\_AI협업캡처.pdf](https://github.com/IE-PY-2026-1/ie-py-homework-yunyun030501-wq-1/blob/main/1차_AI협업캡처.pdf)
+https://github.com/IE-PY-2026-1/ie-py-homework-yunyun030501-wq-1/blob/main/1%EC%B0%A8%20AI%E1%84%92%E1%85%A7%E1%86%B8%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%86%E1%85%A7%E1%86%BC.pdf
 AI협업증명.pdf
 
 
