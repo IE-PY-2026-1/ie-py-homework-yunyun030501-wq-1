@@ -93,7 +93,19 @@ https://github.com/IE-PY-2026-1/ie-py-homework-yunyun030501-wq-1/blob/main/%EC%A
 
 ## 🟨 [3차 과제: V3.0] 무한 루프와 메뉴 시스템 (반복문) - 향후 작성 예정
 ### **✨3차 과제 업데이트 내용:**
-  * 내용.
+  * 내용.3차 과제는 2차에서 만든 짐봐줘에 반복문과 함수를 추가해서 프로그램이 계속 실행되고 기능별로 모듈화되도록 구현했습니다.
+
+while True 무한 루프로 메인 메뉴를 출력하고, 사용자가 종료를 선택할 때만 break로 프로그램이 끝나도록 구성
+
+2차에서 순서대로 실행되던 코드를 get_traveler_info(), select_luggage(), calculate_fee(), match_house(), print_receipt(), add_reservation(), show_reservations(), show_analysis() 총 8개의 함수로 분리해서 각 기능이 독립적으로 동작하도록 구현
+
+calculate_fee(hours, extra_fee), match_house(needs_pet) 등 매개변수를 받아 처리하는 함수 구현
+
+get_traveler_info()는 리스트, calculate_fee()는 딕셔너리, match_house()는 보관자 정보를 return으로 반환하도록 구현
+
+reservations, available_houses 등 프로그램 전체에서 공유하는 데이터는 전역 변수로 선언하고, BASE_RATE 같은 계산 중간값은 함수 내부 지역 변수로 처리, add_reservation() 안에서 global 키워드 사용해서 전역 리스트에 예약 데이터 추가
+
+예약 입력 외에 전체 예약 목록 조회와 평균/최고/최저 요금 분석 기능도 추가
     
 ### **🤖 AI 파트너십 과정**
  1. **내용 1**
