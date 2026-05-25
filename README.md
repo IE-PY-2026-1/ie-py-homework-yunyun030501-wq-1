@@ -130,7 +130,7 @@ global 키워드 사용법
 해결: while True + break 구조로 올바른 입력이 들어올 때만 다음으로 넘어가도록 수정
 
 ### **📁 증빙 자료:**
-  * [3차_AI협업캡처.pdf 첨부 완료] 
+  * [3차_AI협업캡처.pdf 첨부 완료] https://github.com/IE-PY-2026-1/ie-py-homework-yunyun030501-wq-1/blob/main/AI협업증명3.pdf
   * [3차과제_실행결과.jpg]https://github.com/IE-PY-2026-1/ie-py-homework-yunyun030501-wq-1/blob/main/3차과제_실행결과.jpg
 <br>
 
