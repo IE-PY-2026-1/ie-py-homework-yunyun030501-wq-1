@@ -195,4 +195,4 @@ open(..., "r") 에서 에러가 발생함.
 ### **📁 증빙 자료:**
   * [4차_AI협업캡처.pdf 첨부 완료] https://github.com/IE-PY-2026-1/ie-py-homework-yunyun030501-wq-1/blob/main/AI%ED%98%91%EC%97%85%EC%A6%9D%EB%AA%854.pdf
   * [4차과제_실행결과.jpg]
-<br>
+<br>https://github.com/IE-PY-2026-1/ie-py-homework-yunyun030501-wq-1/blob/main/4%EC%B0%A8%EA%B3%BC%EC%A0%9C_%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC.jpghttps://github.com/IE-PY-2026-1/ie-py-homework-yunyun030501-wq-1/blob/main/4%EC%B0%A8%EA%B3%BC%EC%A0%9C_%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC.jpg
